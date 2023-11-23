@@ -25,7 +25,7 @@
                 "protectedSettings": {
                     "commandToExecute": "[concat('powershell -ExecutionPolicy Unrestricted -File LogGenerator.ps1 -message \"', parameters('Message'),'\"')]",
                     "fileUris": [
-                        "https://bitdefend.blob.core.windows.net/testcontainer/LogGenerator.ps1?sp=r&st=2023-10-19T18:47:59Z&se=2023-10-20T02:47:59Z&sv=2022-11-02&sr=b&sig=FZvXNUopyvTY6Qr6nKlfmjYYKJT5j2TDoi6JJIphdQA%3D"
+                        "https://bitdefend.blob.core.windows.net/dutchazuremeetup/LogGenerator.ps1?sp=r&st=2023-11-23T16:04:36Z&se=2023-11-24T00:04:36Z&spr=https&sv=2022-11-02&sr=b&sig=1KnPx8MznYqbcU3asF%2FpBv4JTY95NWDAlkaMEWYbmgQ%3D"
                     ]
                 }
             }
